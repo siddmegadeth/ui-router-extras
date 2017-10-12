@@ -3,6 +3,7 @@
  * @version v0.2.8
  * @link http://angular-ui.github.com/
  * @license MIT License, http://www.opensource.org/licenses/MIT
+ This is a test change
  */
 
 /* commonjs package manager support (eg componentjs) */

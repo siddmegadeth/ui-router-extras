@@ -3,6 +3,7 @@
  * @version v0.2.15
  * @link http://angular-ui.github.com/
  * @license MIT License, http://www.opensource.org/licenses/MIT
+ git multiple files
  */
 
 /* commonjs package manager support (eg componentjs) */
